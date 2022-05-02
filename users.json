@@ -233,8 +233,8 @@
   {
     "id": 11,
     "name": "John Doe",
-    "username": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
+    "username": "John.Doe",
+    "email": "John.Doe@karina.biz",
     "address": {
       "street": "Kattie Turnpike",
       "suite": "Suite 198",
@@ -246,7 +246,7 @@
       }
     },
     "phone": "024-648-3804",
-    "website": "ambrose.net",
+    "website": "Doe.net",
     "company": {
       "name": "Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
